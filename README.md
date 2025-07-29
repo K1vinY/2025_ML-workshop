@@ -14,7 +14,7 @@ This project compares three supervised machine learning algorithms—Random Fore
 ├── KevinYu_RandomForestClassifier.ipynb
 ├── KevinYu_SVM Classifier Coral.ipynb
 ├── KevinYu_XGBoost.ipynb
-├── Florida_Keys.csv                  # Dataset (not included here; see Kaggle)
+├── Florida_Keys.csv
 └── README.md
 ```
 
